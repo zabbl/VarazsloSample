@@ -1,4 +1,4 @@
 VarazsloSample
 ==============
 
-Change VarazsloSample
+VarazsloSample
