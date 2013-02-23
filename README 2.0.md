@@ -1,4 +1,3 @@
 VarazsloSample
 ==============
-
-VarazsloSample
+sdf gsdf mple
